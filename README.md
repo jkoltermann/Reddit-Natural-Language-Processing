@@ -1,5 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Web APIs & NLP
-
+# Natural Language Processing with Reddit Subreddit Data
 
 ### Contents:
 - [Problem Statement](#Problem-Statement)
@@ -9,7 +8,7 @@
 
 ### Problem Statement 
 
-As an outside consultant to reddit, I have been approached to create a solution to utilize machine learning to evaluate whether a post was unintensionally posted to an incorrect subreddit. To initially show a proof of concept, I have chosen the subreddit's r/science and r/space to evaluate a binary prediction of whether an inputted post best-applies to one, or the other subreddit to hopefully contribute to a broader classification in the future.
+In taking an interest for Natural Language Processing, I have aimed to create a solution to evaluate whether a post was unintensionally posted to an incorrect subreddit. To initially show a proof of concept, I have chosen the subreddit's r/science and r/space to evaluate a binary prediction of whether an inputted post best-applies to one, or the other subreddit to hopefully contribute to a broader classification in the future.
 
 ### Executive Summary
 My process of building this model followed the structure of my 3 notebook design:
